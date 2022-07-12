@@ -1,0 +1,6 @@
+#archivos .env
+.env
+
+#la carpeta tareas sin importar el tipo de archivos que posea
+tareas
+
